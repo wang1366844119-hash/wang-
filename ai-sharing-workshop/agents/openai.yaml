@@ -1,0 +1,5 @@
+interface:
+  display_name: "AI 分享会策划与制作"
+  short_description: "把零散素材做成可信、清楚、可讲的 HTML 分享会"
+  default_prompt: "Use $ai-sharing-workshop to turn my outline and materials into an evidence-backed HTML talk with speaker notes."
+
